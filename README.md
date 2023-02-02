@@ -1,3 +1,13 @@
+# microbit-lia-batlle
+
+Program in MicroPython for calculating the mathematical series of the number PI.
+
+The program uses Leibniz's formula for PI, and allows the user to specify the number of terms to be used in the calculation. The resulting approximate value of PI is returned by the program.
+
+## Authors
+
+- [@liabatlle](https://github.com/liabatlle)
+
 
 > Abra esta pagina en [https://liabatlle.github.io/microbit-lia-batlle/](https://liabatlle.github.io/microbit-lia-batlle/)
 
